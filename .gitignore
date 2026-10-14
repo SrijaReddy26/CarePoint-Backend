@@ -1,0 +1,10 @@
+target/
+data/
+*.log
+backend-error.txt
+.env
+.env.*
+!.env.example
+*.db
+*.mv.db
+*.trace.db
